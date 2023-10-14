@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Display a map</title>
+    <meta property="og:description" content="Initialize a map in an HTML element with MapLibre GL JS." />
+    <meta charset='utf-8'>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel='stylesheet' href='https://unpkg.com/maplibre-gl@3.2.0/dist/maplibre-gl.css' />
+    <script src='https://unpkg.com/maplibre-gl@3.2.0/dist/maplibre-gl.js'></script>
+    <style>
+        body { margin: 0; padding: 0; }
+        html, body, #map { height: 100%; }
+    </style>
+</head>
+<body>
+<div id="map"></div>
+<script>
+    const bounds = 
+[
+    [27.9, 40.7], // sol alt
+    [30, 41.7] // sağ üst
+];
+    const map = new maplibregl.Map({
+        container: 'map', // container id
+        style:
+            'https://api.maptiler.com/maps/streets/style.json?key=aVIF46VV8VEMda1xrLgm',
+        center: [28.979530, 41.015137], // starting position
+        zoom: 9, // starting zoom
+        maxBounds: bounds
+    });
+  </script>
+</body>
+</html>
+
+
+
+
+// function showPopup(){
+//     var hatTipi = marker.properties["hat-tipi"];
+//     var popUpIcerik = marker.properties["popup-content"];
+//     var coordinates = marker.geometry.coordinates;
+//     var popup = new maplibregl.Popup({ closeOnClick: false })
+//         .setLngLat(coordinates)
+//         .setHTML("<h3>" + hatTipi + "</h3><p>" + popUpIcerik + "</p>");
+//     popup.addTo(map);
+// }
+// document.getElementById('hatlar').addEventListener('change',function(e){
+//     var seçilenhatlar = e.target.value;
+//     var markerlar = map.features('geojsonMarkers6');
+//     markerlar.foreach(function (marker){
+//             if (marker.properties["hat-tipi"]===seçilenhatlar){
+//                 showPopup(marker);
+//             }
+//     })
+// });
+
+// let iettdata = null
+
+// fetch('/karahattı/otobüshat/otobüshat.json')
+//     .then(response => response.json())
+//     .then(data => {
+//         iettdata = data.features;
+
+
+//         function hatseçildi() {
+//             var seçilihat = document.getElementById("hatlar").value;
+//             var koordinat = hatKoordinatlar.find(feature => feature.properties["hat-tipi"] === seçilhat)?.geometry.coordinates;
+
+//             if (koordinat) {
+//                 var marker = new maplibregl.Marker().setLngLat(koordinat).addTo(map);
+//             }
+//         }
+
+//     })
+//     .catch(error => console.error('Hata:', error));
+
+
+
+// const tasit = document.getElementById("taşıt")
+// tasit.addEventListener("change", (e) => {
+//     console.log(e.target.value);
+//     console.log(iettdata);
+//     var koordinat = hatKoordinatlar.find(feature => feature.properties["hat-tipi"] === e.target.value)?.geometry.coordinates
+// })O
+
+// function taşıtdeğiş() {
+//     var taşıtCombobox = document.getElementById("taşıt");
+//     var hatlarCombobox = document.getElementById("hatlar");
+//     hatlarCombobox.innerHTML = "";
+
+//     var seçilentaşıt = taşıtCombobox.value;
+//     if (seçilentaşıt === 'seç') {
+//         ekle("TAŞIT SEÇİNİZ", "taşıtseç")
+//     }
+//     else if (seçilentaşıt === "otobüs") {
+//         ekle("1", "otobüs1")
+//         ekle("2", "otobüs2")
+//         ekle("4", "otobüs3")
+//         ekle("5", "otobüs4")
+//         ekle("10", "otobüs5")
+//         ekle("11G", "otobüs6")
+//         ekle("DT1", "otobüs7")
+//         ekle("BN1", "otobüs8")
+//         ekle("77", "otobüs9")
+//         ekle("11ÜS", "otobüs10")
+//     }
+//     else if (seçilentaşıt === "metro") {
+//         ekle("M1A", "metro1")
+//         ekle("M1B", "metro2")
+//         ekle("M3", "metro3")
+//         ekle("M2", "metro4")
+//         ekle("M4", "metro5")
+//         ekle("M5", "metro6")
+//         ekle("M6", "metro7")
+//         ekle("M7", "metro8")
+//         ekle("M8", "metro9")
+//         ekle("M9", "metro10")
+//         ekle("M11", "metro11")
+//     }
+//     else if (seçilentaşıt === "metrobüs") {
+//         ekle("AVCILAR-SÖĞÜTLÜÇEŞME", "metrobüs1")
+//         ekle("AVCILAR-ZİNCİRLİKUYU", "metrobüs2")
+//         ekle("BEYLİKDÜZÜ-AVCILAR", "metrobüs3")
+//         ekle("BEYLİKDÜZÜ-CEVİZLİBAĞ", "metrobüs4")
+//         ekle("BEYLİKDÜZÜ-SÖĞÜTLÜÇEŞME", "metrobüs5")
+//         ekle("CEVİZLİBAĞ-SÖĞÜTLÜÇEŞME", "metrobüs6")
+//         ekle("ZİNCİRLİKUYU-SÖĞÜTLÜÇEŞME", "metrobüs7")
+//         ekle("F1", "metrobüs8")
+//         ekle("F2", "metrobüs9")
+//         ekle("F3", "metrobüs10")
+//     }
+//     else if (seçilentaşıt === "tramvay") {
+//         ekle("T1", "tramvay1")
+//         ekle("T2", "tramvay2")
+//         ekle("T3", "tramvay3")
+//         ekle("T4", "tramvay4")
+//         ekle("T5", "tramvay5")
+//     }
+//     else if (seçilentaşıt === "vapur") {
+//         ekle("BEŞİKTAŞ-ADALAR", "vapur1")
+//         ekle("BOSTANCI-ADALAR", "vapur2")
+//         ekle("KARTAL-HEYEBELİADA", "vapur3")
+//         ekle("KABATAŞ-ADALAR", "vapur4")
+//         ekle("EMİNÖNÜ-ADALAR", "vapur5")
+//         ekle("AVCILAR-BOSTANCI", "vapur6")
+//         ekle("BEŞİKAŞ-KADIKÖY", "vapur7")
+//         ekle("HAREM-SİRKECİ", "vapur8")
+//         ekle("KADIKÖY-BEŞİKTAŞ", "vapur9")
+//         ekle("KADIKÖY-EMİNÖNÜ", "vapur10")
+//         ekle("ÜSKÜDAR-KADIKÖY", "vapur11")
+//         ekle("ÜSKÜDAR-KABATAŞ", "vapur12")
+//         ekle("ÜSKÜDAR-BEŞİKTAŞ", "vapur13")
+//     }
+//     else if (seçilentaşıt === "marmaray") {
+//         ekle("ATAKÖY-PENDİK", "marmaray1")
+//         ekle("HALKALI-BAHÇEŞEHİR", "marmaray2")
+//         ekle("HALKALI-GEBZE", "marmaray3")
+//     }
+//     // hatlarCombobox.className = seçilentaşıt + "-cursor";
+// }
+// function ekle(text, value) {
+//     // console.log("EKLE")
+//     var seçenek = document.createElement("option");
+//     seçenek.textContent = text;
+//     seçenek.value = value;
+//     document.getElementById("hatlar").appendChild(seçenek);
+
+
+// };

@@ -1,0 +1,31 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {"hat-tipi": "vapur7",
+        "pop-up content":"BEŞİKTAŞ-KADIKÖY GİDİŞ: 07:30-21:00 DÖNÜŞ: 08:00-21:00"
+      },
+        "geometry": {
+          "coordinates": [
+            29.00733734061498,
+            41.04124263625465
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {"hat-tipi": "vapur7",
+        "pop-up content":"BEŞİKTAŞ-KADIKÖY GİDİŞ: 07:30-21:00 DÖNÜŞ: 08:00-21:00"
+      },
+        "geometry": {
+          "coordinates": [
+            29.021815644663292,
+            40.99179892516136
+          ],
+          "type": "Point"
+        }
+      }
+    ]
+  }

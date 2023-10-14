@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="icon.css">
+  <link rel='stylesheet' href='https://unpkg.com/maplibre-gl@3.2.0/dist/maplibre-gl.css' />
+  <script src='https://unpkg.com/maplibre-gl@3.2.0/dist/maplibre-gl.js'></script>
+ 
+  <title>İstanbul Hat Bilgi</title>
+</head>
+          
+<body>
+  
+  <div id="back" >
+    <video autoplay loop muted> <source src="/video/video.mp4" type="video/mp4"> </video>
+    <div class="ekran">
+      <div class="menu">
+        <header>
+          <h2 class="logo">İSTANBUL HAT BİLGİ</h2>
+          
+            <p id="time"></p>
+      </div>
+    
+    
+      <div id="map"></div>
+    
+    
+    
+      <div class="wrapper1" >
+        <div class="form-box login">
+          <div class="input-box1"> 
+            <select id="taşıt" onchange="taşıtdeğiş()">
+             <option value="seç">TAŞIT SEÇİN</option>
+             <option value="otobüs">OTOBÜS</option>
+             <option value="metro">METRO</option>
+             <option value="metrobüs">METROBÜS</option>
+             <option value="tramvay">TRAMVAY</option>
+             <option value="vapur">VAPUR</option>
+             <option value="marmaray">MARMARAY</option>
+            </select>
+            <div class="input-box2">
+              <select id="hatlar">
+                <option value="">HAT SEÇİN</option>
+                </select>
+            </div>
+          </div>
+        <a href="https://www.ibb.istanbul/" target="_blank" title="İBB"><img src="images/ibb.png" width="150px"></a> 
+         
+        </div>
+      </div>
+      <div id="wrapper2">
+        <h2>DURAKLAR</h2>
+        
+    </div>
+    </div>
+    </div>
+   
+ 
+</body>
+<script src="map.js"></script>
+<script src="app.js"></script>
+</html>

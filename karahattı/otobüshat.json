@@ -1,0 +1,298 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "hat-tipi": "otobüs1",
+        "pop-up content": "KİRAZLITEPE - KADIKÖY İŞ GÜNLERİ: 06:20-23:10 HAFTA SONLARI: 07:00-23:00"
+      },
+      "geometry": {
+        "coordinates": [
+          29.02435781349314,
+          40.99431785322008
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hat-tipi": "otobüs1",
+        "pop-up content":"KİRAZLITEPE - KADIKÖY İŞ GÜNLERİ: 06:20-23:10 HAFTA SONLARI: 07:00-23:00"
+      },
+     
+      "geometry": {
+        "coordinates": [
+          29.061782945081717,
+          41.03821093444253
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hat-tipi": "otobüs2",
+        "pop-up content":"BOSTANCI - HAREM İŞ GÜNLERİ: 06:20-23:10 HAFTA SONLARI: 06:30-21:45"
+      },
+      "geometry": {
+        "coordinates": [
+          29.10047862981881,
+          40.95687923517738
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hat-tipi": "otobüs2",
+        "pop-up content":"BOSTANCI - HAREM İŞ GÜNLERİ: 06:20-23:10 HAFTA SONLARI: 06:30-21:45"
+
+      },
+      "geometry": {
+        "coordinates": [
+          29.008079186127958,
+          41.01975882175057
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hat-tipi": "otobüs3",
+        "pop-up content":"MALTEPE SAHİL - KADIKÖY İŞ GÜNLERİ: 05:55-22:20 HAFTA SONLARI: 05:55-22:20"
+
+      },
+      "geometry": {
+        "coordinates": [
+          29.12714481293429,
+          40.922451103003766
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hat-tipi": "otobüs3",
+        "pop-up content":"MALTEPE SAHİL - KADIKÖY İŞ GÜNLERİ: 05:55-22:20 HAFTA SONLARI: 05:55-22:20"
+      },
+      "geometry": {
+        "coordinates": [
+          29.024199543691793,
+          40.994718991020136
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hat-tipi": "otobüs4",
+        "pop-up content":"VALİEVLERİ - ÜSKÜDAR İŞ GÜNLERİ: 06:30-17:35 HAFTA SONLARI: 06:30-17:20"
+      },
+      "geometry": {
+        "coordinates": [
+          29.054627092542916,
+          41.00556233888034
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hat-tipi": "otobüs4",
+        "pop-up content":"VALİEVLERİ - ÜSKÜDAR İŞ GÜNLERİ: 06:30-17:35 HAFTA SONLARI: 06:30-17:20"
+
+      },
+      "geometry": {
+        "coordinates": [
+          29.008074925776697,
+          41.01973309992519
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hat-tipi": "otobüs5",
+        "pop-up content":"ELMALIKENT - ÜSTBOSTANCI İŞ GÜNLERİ: 05:50-22:10 HAFTA SONLARI: 05:50-21:50"
+
+      },
+      "geometry": {
+        "coordinates": [
+          29.037162798133437,
+          41.023982782716615
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hat-tipi": "otobüs5",
+        "pop-up content":"ELMALIKENT - ÜSTBOSTANCI İŞ GÜNLERİ: 05:50-22:10 HAFTA SONLARI: 05:50-21:50"
+
+      },
+      "geometry": {
+        "coordinates": [
+          29.10219877263441,
+          40.969821268470525
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hat-tipi": "otobüs6",
+        "pop-up content":"YENİDOĞAN - NECİP FAZIL METRO İŞ GÜNLERİ: 6:50-19:00 HAFTA SONLARI: 06:00-17:55"
+
+      },
+      "geometry": {
+        "coordinates": [
+          29.239534503025197,
+          41.00828733780321
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hat-tipi": "otobüs6",
+        "pop-up content":"YENİDOĞAN - NECİP FAZIL METRO İŞ GÜNLERİ: 6:50-19:00 HAFTA SONLARI: 06:00-17:55"
+      },
+      "geometry": {
+        "coordinates": [
+          29.179944059522626,
+          41.01608139943892
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hat-tipi": "otobüs7",
+        "pop-up content":"ORTAKÖY - TAKSİM İŞ GÜNLERİ: 06:00-23:00 HAFTA SONLARI: 06:00-23:00"
+
+      },
+      "geometry": {
+        "coordinates": [
+          29.026791728836827,
+          41.071839309138056
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hat-tipi": "otobüs7",
+        "pop-up content":"ORTAKÖY - TAKSİM İŞ GÜNLERİ: 06:00-23:00 HAFTA SONLARI: 06:00-23:00"
+      },
+      "geometry": {
+        "coordinates": [
+          29.01938655431269,
+          41.06251954304949
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hat-tipi": "otobüs8",
+        "pop-up content":"HALKALI - EMİNÖNÜ İŞ GÜNLERİ: 05:00-22:45 HAFTA SONLARI: 05:00-23:10"
+
+      },
+      "geometry": {
+        "coordinates": [
+          28.965361013634663,
+          41.019317731101864
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hat-tipi": "otobüs8",
+        "pop-up content":"HALKALI - EMİNÖNÜ İŞ GÜNLERİ: 05:00-22:45 HAFTA SONLARI: 05:00-23:10"
+
+      },
+      "geometry": {
+        "coordinates": [
+          28.790606805294374,
+          41.03435929778698
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hat-tipi": "otobüs9",
+        "pop-up content":"YENİKAPI - ŞİŞLİ İŞ GÜNLERİ: 06:20-23:10 HAFTA SONLARI: 06:20-23:10"
+
+      },
+      "geometry": {
+        "coordinates": [
+          28.95290886145719,
+          41.003094341962395
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hat-tipi": "otobüs9",
+        "pop-up content":"YENİKAPI - ŞİŞLİ İŞ GÜNLERİ: 06:20-23:10 HAFTA SONLARI: 06:20-23:10"
+
+      },
+      "geometry": {
+        "coordinates": [
+          28.987349270351018,
+          41.06219275587887
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hat-tipi": "otobüs10",
+        "pop-up content":"ÜSKÜDAR - SULTANBEYLİ İŞ GÜNLERİ: 00:00-23:30 HAFTA SONLARI: 04:45-23:30"
+
+      },
+      "geometry": {
+        "coordinates": [
+          29.01306538200754,
+          41.02549760931973
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hat-tipi": "otobüs10",
+                "pop-up content":"ÜSKÜDAR - SULTANBEYLİ İŞ GÜNLERİ: 00:00-23:30 HAFTA SONLARI: 04:45-23:30"
+      },
+      "geometry": {
+        "coordinates": [
+          29.29702548169189,
+          40.93844954628369
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

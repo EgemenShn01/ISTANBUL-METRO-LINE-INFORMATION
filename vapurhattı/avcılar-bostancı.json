@@ -1,0 +1,31 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {"hat-tipi": "vapur6",
+        "pop-up content":"AVCILAR-BOSTANCI GİDİŞ: 07:10-19:10 DÖNÜŞ: 07:55-19:55"
+      },
+        "geometry": {
+          "coordinates": [
+            28.655598634337082,
+            40.96182633807257
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {"hat-tipi": "vapur6",
+        "pop-up content":"AVCILAR-BOSTANCI GİDİŞ: 07:10-19:10 DÖNÜŞ: 07:55-19:55"
+      },
+        "geometry": {
+          "coordinates": [
+            29.094426660224855,
+            40.952349738699866
+          ],
+          "type": "Point"
+        }
+      }
+    ]
+  }

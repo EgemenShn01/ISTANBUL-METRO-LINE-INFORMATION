@@ -1,0 +1,128 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {"hat-tipi": "tramvay1",
+        "pop-up content":"KABATAŞ-BAĞCILAR İŞ GÜNLERİ: 06:00-00:00 HAFTA SONLARI: 06:00-00:00"
+      },
+        "geometry": {
+          "coordinates": [
+            28.860702513152034,
+            41.03305540734462
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {"hat-tipi": "tramvay1",
+        "pop-up content":"KABATAŞ-BAĞCILAR İŞ GÜNLERİ: 06:00-00:00 HAFTA SONLARI: 06:00-00:00"},
+        "geometry": {
+          "coordinates": [
+            28.92845620093928,
+            41.01767034049959
+          ],
+          "type": "Point"
+        }
+      },
+          {
+            "type": "Feature",
+            "properties": {"hat-tipi": "tramvay2",
+            "pop-up content":"TAKSİM-TÜNEL İŞ GÜNLERİ: 07:00-21:30 HAFTA SONLARI: 07:30-21:35"},
+            "geometry": {
+              "coordinates": [
+                28.98480899999953,
+                41.03646804633604
+              ],
+              "type": "Point"
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {"hat-tipi": "tramvay2",
+            "pop-up content":"TAKSİM-TÜNEL İŞ GÜNLERİ: 07:00-21:30 HAFTA SONLARI: 07:30-21:35"},
+            "geometry": {
+              "coordinates": [
+                28.974745000000382,
+                41.02861995318017
+              ],
+              "type": "Point"
+            }
+          },
+
+              {
+                "type": "Feature",
+                "properties": {"hat-tipi": "tramvay3",
+                "pop-up content":"KADIKÖY-MODA İŞ GÜNLERİ: 06:55-21:00 HAFTA SONLARI: 10:00-20:00"},
+                "geometry": {
+                  "coordinates": [
+                    29.025704644182838,
+                    40.990607540714194
+                  ],
+                  "type": "Point"
+                }
+              },
+              {
+                "type": "Feature",
+                "properties": {"hat-tipi": "tramvay3",
+                "pop-up content":"TAKSİM-TÜNEL İŞ GÜNLERİ: 07:00-21:30 HAFTA SONLARI: 07:30-21:35"},
+                "geometry": {
+                  "coordinates": [
+                    29.025711231682408,
+                    40.990632751741146
+                  ],
+                  "type": "Point"
+                }
+              },
+  
+                  {
+                    "type": "Feature",
+                    "properties": {"hat-tipi": "tramvay4",
+                    "pop-up content":"MESCİDİ SELAM-TOPKAPI İŞ GÜNLERİ: 06:00-00:00 HAFTA SONLARI: 06:00-00:00"},
+                    "geometry": {
+                      "coordinates": [
+                        28.920831097788636,
+                        41.01965197149548
+                      ],
+                      "type": "Point"
+                    }
+                  },
+                  {
+                    "type": "Feature",
+                    "properties": {"hat-tipi": "tramvay4",
+                    "pop-up content":"MESCİDİ SELAM-TOPKAPI İŞ GÜNLERİ: 06:00-00:00 HAFTA SONLARI: 06:00-00:00"},
+                    "geometry": {
+                      "coordinates": [
+                        28.8501703736423,
+                        41.11847540408232
+                      ],
+                      "type": "Point"
+                    }
+                  },
+    {
+      "type": "Feature",
+      "properties": {"hat-tipi": "tramvay5",
+      "pop-up content":"CİBALİ-ALİBEYKÖY İŞ GÜNLERİ: 06:00-00:00 HAFTA SONLARI: 06:00-00:00"},
+      "geometry": {
+        "coordinates": [
+          28.96036614560012,
+          41.02422484702305
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"hat-tipi": "tramvay5",
+      "pop-up content":"CİBALİ-ALİBEYKÖY İŞ GÜNLERİ: 06:00-00:00 HAFTA SONLARI: 06:00-00:00"},
+      "geometry": {
+        "coordinates": [
+          28.945051596426055,
+          41.08779051102525
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

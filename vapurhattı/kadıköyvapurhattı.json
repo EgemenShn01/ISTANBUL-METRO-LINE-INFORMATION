@@ -1,0 +1,57 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {"hat-tipi": "vapur9",
+        "pop-up content":"KADIKÖY-BEŞİKTAŞ GİDİŞ: 08:30-21:00 DÖNÜŞ: 07:30-21:00"
+      },
+        "geometry": {
+          "coordinates": [
+            29.020340330040966,
+            40.99151675359391
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {"hat-tipi": "vapur9",
+        "pop-up content":"KADIKÖY-BEŞİKTAŞ GİDİŞ: 08:30-21:00 DÖNÜŞ: 07:30-21:00"
+      },
+        "geometry": {
+          "coordinates": [
+            29.00566528836248,
+            41.040011798829624
+          ],
+          "type": "Point"
+        }
+      },
+          {
+            "type": "Feature",
+            "properties": {"hat-tipi": "vapur10",
+            "pop-up content":"KADIKÖY-EMİNÖNÜ GİDİŞ: 06:10-01:00 DÖNÜŞ: 07:20-21:00"
+          },
+            "geometry": {
+              "coordinates": [
+                29.020340330040966,
+                40.99151675359391
+              ],
+              "type": "Point"
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {"hat-tipi": "vapur10",
+            "pop-up content":"KADIKÖY-EMİNÖNÜ GİDİŞ: 06:10-01:00 DÖNÜŞ: 07:20-21:00"
+          },
+            "geometry": {
+              "coordinates": [
+                28.9767913138748,
+                41.021858848628
+              ],
+              "type": "Point"
+            }
+          }
+        ]
+      }

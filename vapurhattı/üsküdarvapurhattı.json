@@ -1,0 +1,58 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {"hat-tipi": "vapur13",
+        "pop-up content":"ÜSKÜDAR-BEŞİKTAŞ GİDİŞ: 06:10-00:45  DÖNÜŞ: 06:20-01:00"
+      },
+        "geometry": {
+          "coordinates": [
+            29.015111931341977,
+            41.027712236615486
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {"hat-tipi": "vapur13",
+        "pop-up content":"ÜSKÜDAR-BEŞİKTAŞ GİDİŞ: 06:10-00:45  DÖNÜŞ: 06:20-01:00"
+      },
+        "geometry": {
+          "coordinates": [
+            29.007787038874284,
+            41.041359049503484
+          ],
+          "type": "Point"
+        }
+      },
+              {
+                "type": "Feature",
+                "properties": {"hat-tipi": "vapur12",
+                "pop-up content":"ÜSKÜDAR-KABATAŞ GİDİŞ: 06:45-22:00  DÖNÜŞ: 06:55-22:10"
+              },
+                "geometry": {
+                  "coordinates": [
+                    29.015111931341977,
+                    41.027712236615486
+                  ],
+                  "type": "Point"
+                }
+              },
+              {
+                "type": "Feature",
+                "properties": {"hat-tipi": "vapur12",
+                "pop-up content":"ÜSKÜDAR-KABATAŞ GİDİŞ: 06:45-22:00  DÖNÜŞ: 06:55-22:10"
+              },
+                "geometry": {
+                  "coordinates": [
+                    28.99373720237736,
+                    41.03489267497076
+                  ],
+                  "type": "Point"
+                }
+              }
+            ]
+          }
+    

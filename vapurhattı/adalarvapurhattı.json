@@ -1,0 +1,242 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {"hat-tipi": "vapur1",
+      "pop-up content":"BEŞİKTAŞ-ADALAR GİDİŞ: 09:30-14:30 DÖNÜŞ: 14:30-19:00"
+
+      },
+        "geometry": {
+          "coordinates": [
+            29.00728089814811,
+            41.04098700668871
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {"hat-tipi": "vapur1",
+        "pop-up content":"BEŞİKTAŞ-ADALAR GİDİŞ: 09:30-14:30 DÖNÜŞ: 14:30-19:00"
+      },
+        "geometry": {
+          "coordinates": [
+            29.055100071291804,
+            40.910943408349596
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {"hat-tipi": "vapur1",
+        "pop-up content":"BEŞİKTAŞ-ADALAR GİDİŞ: 09:30-14:30 DÖNÜŞ: 14:30-19:00"
+      },
+        "geometry": {
+          "coordinates": [
+            29.068737066909875,
+            40.880805655791136
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {"hat-tipi": "vapur1",
+        "pop-up content":"BEŞİKTAŞ-ADALAR GİDİŞ: 09:30-14:30 DÖNÜŞ: 14:30-19:00"
+      },
+        "geometry": {
+          "coordinates": [
+            29.09955043105475,
+            40.87844441649395
+          ],
+          "type": "Point"
+        }
+      },
+          {
+            "type": "Feature",
+            "properties": {"hat-tipi": "vapur2",
+            "pop-up content":"BOSTANCU-ADALAR GİDİŞ: 07:45-00:00 DÖNÜŞ: 08:30-00:35"
+          },
+            "geometry": {
+              "coordinates": [
+                29.055100071291804,
+                40.910943408349596
+              ],
+              "type": "Point"
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {"hat-tipi": "vapur2",
+            "pop-up content":"BOSTANCU-ADALAR GİDİŞ: 07:45-00:00 DÖNÜŞ: 08:30-00:35"
+          },
+            "geometry": {
+              "coordinates": [
+                29.068737066909875,
+                40.880805655791136
+              ],
+              "type": "Point"
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {"hat-tipi": "vapur2",
+            "pop-up content":"BOSTANCU-ADALAR GİDİŞ: 07:45-00:00 DÖNÜŞ: 08:30-00:35"
+          },
+            "geometry": {
+              "coordinates": [
+                29.09955043105475,
+                40.87844441649395
+              ],
+              "type": "Point"
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {"hat-tipi": "vapur2",
+            "pop-up content":"BOSTANCU-ADALAR GİDİŞ: 07:45-00:00 DÖNÜŞ: 08:30-00:35"
+          },
+            "geometry": {
+              "coordinates": [
+                29.094343779097983,
+                40.95194172401659
+              ],
+              "type": "Point"
+            }
+          },
+
+              {
+                "type": "Feature",
+                "properties": {"hat-tipi": "vapur3",
+                "pop-up content":"KARTAL-HEYBELİADA GİDİŞ: 06:20-21:15 DÖNÜŞ: 07:00-21:55"
+              },
+                "geometry": {
+                  "coordinates": [
+                    29.09955043105475,
+                    40.87844441649395
+                  ],
+                  "type": "Point"
+                }
+              },
+              {
+                "type": "Feature",
+                "properties": {"hat-tipi": "vapur3",
+                "pop-up content":"KARTAL-HEYBELİADA GİDİŞ: 06:20-21:15 DÖNÜŞ: 07:00-21:55"
+              },
+                "geometry": {
+                  "coordinates": [
+                    29.186965782704277,
+                    40.886748079992
+                  ],
+                  "type": "Point"
+                }
+              },
+
+                  {
+                    "type": "Feature",
+                    "properties": {"hat-tipi": "vapur4",
+                    "pop-up content":"KABATAŞ-ADALAR GİDİŞ: 09:45-14:45 DÖNÜŞ: 14:30-19:00"
+                  },
+                    "geometry": {
+                      "coordinates": [
+                        29.055100071291804,
+                        40.910943408349596
+                      ],
+                      "type": "Point"
+                    }
+                  },
+                  {
+                    "type": "Feature",
+                    "properties": {"hat-tipi": "vapur4",
+                    "pop-up content":"KABATAŞ-ADALAR GİDİŞ: 09:45-14:45 DÖNÜŞ: 14:30-19:00"
+                  },
+                    "geometry": {
+                      "coordinates": [
+                        29.068737066909875,
+                        40.880805655791136
+                      ],
+                      "type": "Point"
+                    }
+                  },
+                  {
+                    "type": "Feature",
+                    "properties": {"hat-tipi": "vapur4",
+                    "pop-up content":"KABATAŞ-ADALAR GİDİŞ: 09:45-14:45 DÖNÜŞ: 14:30-19:00"
+                  },
+                    "geometry": {
+                      "coordinates": [
+                        29.09955043105475,
+                        40.87844441649395
+                      ],
+                      "type": "Point"
+                    }
+                  },
+                  {
+                    "type": "Feature",
+                    "properties": {"hat-tipi": "vapur4",
+                    "pop-up content":"KABATAŞ-ADALAR GİDİŞ: 09:45-14:45 DÖNÜŞ: 14:30-19:00"
+                  },
+                    "geometry": {
+                      "coordinates": [
+                        28.99416842743946,
+                        41.03584668694097
+                      ],
+                      "type": "Point"
+                    }
+                  },
+                  {
+                    "type": "Feature",
+                    "properties": {"hat-tipi": "vapur5",
+                    "pop-up content":"EMİNÖNÜ-ADALAR GİDİŞ: 10:00-15:00 DÖNÜŞ: 14:30-19:00"
+                  },
+                    "geometry": {
+                      "coordinates": [
+                        29.055100071291804,
+                        40.910943408349596
+                      ],
+                      "type": "Point"
+                    }
+                      },
+                      {
+                        "type": "Feature",
+                        "properties": {"hat-tipi": "vapur5",
+                        "pop-up content":"EMİNÖNÜ-ADALAR GİDİŞ: 10:00-15:00 DÖNÜŞ: 14:30-19:00"
+                      },
+                        "geometry": {
+                          "coordinates": [
+                            29.068737066909875,
+                            40.880805655791136
+                          ],
+                          "type": "Point"
+                        }
+                      },
+                      {
+                        "type": "Feature",
+                        "properties": {"hat-tipi": "vapur5",
+                        "pop-up content":"EMİNÖNÜ-ADALAR GİDİŞ: 10:00-15:00 DÖNÜŞ: 14:30-19:00"
+                      },
+                        "geometry": {
+                          "coordinates": [
+                            29.09955043105475,
+                            40.87844441649395
+                          ],
+                          "type": "Point"
+                        }
+                      },
+                      {
+                        "type": "Feature",
+                        "properties": {"hat-tipi": "vapur5",
+                        "pop-up content":"EMİNÖNÜ-ADALAR GİDİŞ: 10:00-15:00 DÖNÜŞ: 14:30-19:00"
+                      },
+                        "geometry": {
+                          "coordinates": [
+                            28.97629064417967,
+                            41.01699652288289
+                          ],
+                          "type": "Point"
+                        }
+                      }
+                    ]
+                  }

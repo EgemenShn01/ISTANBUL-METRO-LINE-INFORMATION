@@ -1,0 +1,31 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {"hat-tipi": "vapur8",
+        "pop-up content":"HAREM-SİRKECİ GİDİŞ: 06:00-21:00 DÖNÜŞ: 06:00-21:00"
+      },
+        "geometry": {
+          "coordinates": [
+            29.00993553861906,
+            41.01078976472036
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {"hat-tipi": "vapur8",
+        "pop-up content":"HAREM-SİRKECİ GİDİŞ: 06:00-21:00 DÖNÜŞ: 06:00-21:00"
+      },
+        "geometry": {
+          "coordinates": [
+            28.977572963581792,
+            41.01675740238977
+          ],
+          "type": "Point"
+        }
+      }
+    ]
+  }

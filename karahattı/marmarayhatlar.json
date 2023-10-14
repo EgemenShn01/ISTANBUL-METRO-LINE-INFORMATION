@@ -1,0 +1,96 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "hat-tipi": "marmaray1",
+          "pop-up content":"ATAKÖY-PENDİK İŞ GÜNLERİ: 06:00-21:55 HAFTA SONLARI: 06:00-21:55"
+
+        },
+        "geometry": {
+          "coordinates": [
+            28.917013703788683,
+            40.992730235785956
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "hat-tipi": "marmaray1",
+          "pop-up content":"ATAKÖY-PENDİK İŞ GÜNLERİ: 06:00-21:55 HAFTA SONLARI: 06:00-21:55"
+        },
+        "geometry": {
+          "coordinates": [
+            29.23150685613419,
+          40.88021656298187
+          ],
+          "type": "Point"
+        }
+      },
+          {
+            "type": "Feature",
+            "properties": {
+              "hat-tipi": "marmaray2",
+              "pop-up content":"HALKALI-BAHÇEŞEHİR İŞ GÜNLERİ: 06:30-18:30 HAFTA SONLARI: 06:30-18:30"
+
+            },
+            "geometry": {
+              "coordinates": [
+                28.767585937637733,
+                41.01860248480813
+              ],
+              "type": "Point"
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "hat-tipi": "marmaray2",
+              "pop-up content":"HALKALI-BAHÇEŞEHİR İŞ GÜNLERİ: 06:30-18:30 HAFTA SONLARI: 06:30-18:30"
+
+
+            },
+            "geometry": {
+              "coordinates": [
+                28.679070153266878,
+                41.08424784431443
+              ],
+              "type": "Point"
+            }
+          },
+              {
+                "type": "Feature",
+                "properties": {
+                  "hat-tipi": "marmaray3",
+                  "pop-up content":"HALKALI-GEBZE İŞ GÜNLERİ: 06:00-00:30 HAFTA SONLARI: 06:00-00:30"
+
+                },
+                "geometry": {
+                  "coordinates": [
+                    28.767585937637733,
+                    41.01860248480813
+                  ],
+                  "type": "Point"
+                }
+              },
+              {
+                "type": "Feature",
+                "properties": {
+                  "hat-tipi": "marmaray3",
+                  "pop-up content":"HALKALI-GEBZE İŞ GÜNLERİ: 06:00-00:30 HAFTA SONLARI: 06:00-00:30" 
+
+                },
+                "geometry": {
+                  "coordinates": [
+                    29.411119548099606,
+                    40.783996397681534
+                  ],
+                  "type": "Point"
+                }
+              }
+            ]
+          }
+ 

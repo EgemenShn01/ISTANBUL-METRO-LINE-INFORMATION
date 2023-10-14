@@ -1,0 +1,303 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "hat-tipi": "metrobüs1",
+          "pop-up content":"AVCILAR-SÖĞÜTLÜÇEŞME İŞ GÜNLERİ: 05:45-22:57 HAFTA SONLARI: 06:00-22:57"
+        },
+        "geometry": {
+          "coordinates": [
+            28.856378419632392,
+            40.980188828085716
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "hat-tipi": "metrobüs1",
+          "pop-up content":"AVCILAR-SÖĞÜTLÜÇEŞME İŞ GÜNLERİ: 05:45-22:57 HAFTA SONLARI: 06:00-22:57"
+
+        },
+        "geometry": {
+          "coordinates": [
+            29.038497915343584,
+            40.99193075463745
+          ],
+          "type": "Point"
+        }
+      },
+          {
+            "type": "Feature",
+            "properties": {
+              "hat-tipi": "metrobüs2",
+              "pop-up content":"AVCILAR-ZİNCİRLİKUYU İŞ GÜNLERİ: 06:00-19:00 HAFTA SONLARI: 06:00-19:00"
+
+            },
+            "geometry": {
+              "coordinates": [
+                28.72634754232962,
+                40.983278148814605
+              ],
+              "type": "Point"
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "hat-tipi": "metrobüs2",
+              "pop-up content":"AVCILAR-ZİNCİRLİKUYU İŞ GÜNLERİ: 06:00-19:00 HAFTA SONLARI: 06:00-19:00"
+
+            },
+            "geometry": {
+              "coordinates": [
+                29.012631542326943,
+                41.06646922246469
+              ],
+              "type": "Point"
+            }
+          },
+              {
+                "type": "Feature",
+                "properties": {
+                  "hat-tipi": "metrobüs3",
+                  "pop-up content":"BEYLİKDÜZÜ-AVCILAR İŞ GÜNLERİ: 00:00-18:00 HAFTA SONLARI: 00:00-18:00"
+
+                },
+                "geometry": {
+                  "coordinates": [
+                    28.65709072883746,
+                    41.009320048005264
+                  ],
+                  "type": "Point"
+                }
+              },
+              {
+                "type": "Feature",
+                "properties": {
+                  "hat-tipi": "metrobüs3",
+                  "pop-up content":"BEYLİKDÜZÜ-AVCILAR İŞ GÜNLERİ: 00:00-18:00 HAFTA SONLARI: 00:00-18:00"
+
+                },
+                "geometry": {
+                  "coordinates": [
+                    28.726358271165623,
+                    40.983278148814605
+                  ],
+                  "type": "Point"
+                }
+              },
+                  {
+                    "type": "Feature",
+                    "properties": {
+                      "hat-tipi": "metrobüs4",
+                      "pop-up content":"BEYLİKDÜZÜ-CEVİZLİBAĞ İŞ GÜNLERİ: 06:00-21:00 HAFTA SONLARI: *ÇALIŞMIYOR*"
+
+
+                    },
+                    "geometry": {
+                      "coordinates": [
+                        28.65709072883746,
+                        41.009320048005264
+                      ],
+                      "type": "Point"
+                    }
+                  },
+                  {
+                    "type": "Feature",
+                    "properties": {
+                      "hat-tipi": "metrobüs4",
+                      "pop-up content":"BEYLİKDÜZÜ-CEVİZLİBAĞ İŞ GÜNLERİ: 06:00-21:00 HAFTA SONLARI: *ÇALIŞMIYOR*"
+                    },
+                    "geometry": {
+                      "coordinates": [
+                        28.911191196884687,
+                        41.01704337667178
+                      ],
+                      "type": "Point"
+                    }
+                  },
+                      {
+                        "type": "Feature",
+                        "properties": {
+                          "hat-tipi": "metrobüs5",
+                          "pop-up content":"BEYLİKDÜZÜ-SÖĞÜTLÜÇEŞME İŞ GÜNLERİ: 00:00-00:00 HAFTA SONLARI: 00:00-00:00"
+                        },
+                        "geometry": {
+                          "coordinates": [
+                            28.65709072883746,
+                            41.009320048005264
+                          ],
+                          "type": "Point"
+                        }
+                      },
+                      {
+                        "type": "Feature",
+                        "properties": {
+                          "hat-tipi": "metrobüs5",
+                          "pop-up content":"BEYLİKDÜZÜ-SÖĞÜTLÜÇEŞME İŞ GÜNLERİ: 00:00-00:00 HAFTA SONLARI: 00:00-00:00"
+
+                        },
+                        "geometry": {
+                          "coordinates": [
+                            29.038422813491195,
+                            40.9919145583423
+                          ],
+                          "type": "Point"
+                        }
+                      },
+                          {
+                            "type": "Feature",
+                            "properties": {
+                              "hat-tipi": "metrobüs6",
+                              "pop-up content":"CEVİZLİBAĞ-SÖĞÜTLÜÇEŞME İŞ GÜNLERİ: 01:00-05:00 HAFTA SONLARI: 01:00-05:00"
+
+                            },
+                            "geometry": {
+                              "coordinates": [
+                                29.038422813491195,
+                                40.9919145583423
+                              ],
+                              "type": "Point"
+                            }
+                          },
+                          {
+                            "type": "Feature",
+                            "properties": {
+                              "hat-tipi": "metrobüs6",
+                              "pop-up content":"CEVİZLİBAĞ-SÖĞÜTLÜÇEŞME İŞ GÜNLERİ: 01:00-05:00 HAFTA SONLARI: 01:00-05:00"
+
+                            },
+                            "geometry": {
+                              "coordinates": [
+                                28.9109878134947,
+                                41.016858952458875
+                              ],
+                              "type": "Point"
+                            }
+                          },
+                              {
+                                "type": "Feature",
+                                "properties": {
+                                  "hat-tipi": "metrobüs7",
+                                  "pop-up content":"ZİNCİRLİKUYU-SÖĞÜTLÜÇEŞME İŞ GÜNLERİ: 14:30-21:55 HAFTA SONLARI: 14:30-21:55"
+
+                                },
+                                "geometry": {
+                                  "coordinates": [
+                                    29.038422813491195,
+                                    40.9919145583423
+                                  ],
+                                  "type": "Point"
+                                }
+                              },
+                              {
+                                "type": "Feature",
+                                "properties": {
+                                  "hat-tipi": "metrobüs7",
+                                  "pop-up content":"ZİNCİRLİKUYU-SÖĞÜTLÜÇEŞME İŞ GÜNLERİ: 14:30-21:55 HAFTA SONLARI: 14:30-21:55"
+
+                                },
+                                "geometry": {
+                                  "coordinates": [
+                                    29.01267771798851,
+                                    41.06654673079939
+                                  ],
+                                  "type": "Point"
+                                }
+                              },
+                                  {
+                                    "type": "Feature",
+                                    "properties": {
+                                      "hat-tipi": "metrobüs8",
+                                      "pop-up content":"TAKSİM-KABATAŞ İŞ GÜNLERİ: 06:00-00:00 HAFTA SONLARI: 06:00-00:00"
+                                    },
+                                    "geometry": {
+                                      "coordinates": [
+                                        28.985705587333598,
+                                        41.03775876071538
+                                      ],
+                                      "type": "Point"
+                                    }
+                                  },
+                                  {
+                                    "type": "Feature",
+                                    "properties": {
+                                      "hat-tipi": "metrobüs8",
+                                      "pop-up content":"TAKSİM-KABATAŞ İŞ GÜNLERİ: 06:00-00:00 HAFTA SONLARI: 06:00-00:00"
+                                    },
+                                    "geometry": {
+                                      "coordinates": [
+                                        28.991332859145928,
+                                        41.03318342682695
+                                      ],
+                                      "type": "Point"
+                                    }
+                                  },
+                              
+                                      {
+                                        "type": "Feature",
+                                        "properties": {
+                                          "hat-tipi": "metrobüs9",
+                                          "pop-up content":"KARAKÖY-BEYOĞLU İŞ GÜNLERİ: 07:00-22:45 HAFTA SONLARI: 07:00-22:45"
+
+                                        },
+                                        "geometry": {
+                                          "coordinates": [
+                                            28.988472646834197,
+                                            41.10747290420031
+                                          ],
+                                          "type": "Point"
+                                        }
+                                      },
+                                      {
+                                        "type": "Feature",
+                                        "properties": {
+                                          "hat-tipi": "metrobüs9",
+                                          "pop-up content":"KARAKÖY-BEYOĞLU İŞ GÜNLERİ: 07:00-22:45 HAFTA SONLARI: 07:00-22:45"
+
+                                        },
+                                        "geometry": {
+                                          "coordinates": [
+                                            28.912841460465103,
+                                            41.06905384759301
+                                          ],
+                                          "type": "Point"
+                                        }
+                                      },
+                              
+                                          {
+                                            "type": "Feature",
+                                            "properties": {
+                                              "hat-tipi": "metrobüs10",
+                                              "pop-up content":"SEYRANTEPE-VADİSTANBUL İŞ GÜNLERİ: 07:00-23:10 HAFTA SONLARI: 07:00-23:10"
+
+                                            },
+                                            "geometry": {
+                                              "coordinates": [
+                                                29.04389279945525,
+                                                41.079085563105195
+                                              ],
+                                              "type": "Point"
+                                            }
+                                          },
+                                          {
+                                            "type": "Feature",
+                                            "properties": {
+                                              "hat-tipi": "metrobüs10",
+                                              "pop-up content":"SEYRANTEPE-VADİSTANBUL İŞ GÜNLERİ: 07:00-23:10 HAFTA SONLARI: 07:00-23:10"
+
+                                            },
+                                            "geometry": {
+                                              "coordinates": [
+                                                29.04557630022086,
+                                                41.08507421392102
+                                              ],
+                                              "type": "Point"
+                                            }
+                                          }
+                                        ]
+                                      }

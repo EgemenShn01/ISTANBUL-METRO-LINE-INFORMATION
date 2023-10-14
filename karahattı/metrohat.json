@@ -1,0 +1,318 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "hat-tipi": "metro1",
+          "pop-up content":"YENİKAPI-ATATÜRK HAVALİMANI İŞ GÜNLERİ: 06:00-00:00 HAFTA SONLARI: 06:00-00:00"
+        },
+        "geometry": {
+          "coordinates": [
+            28.95101872883467,
+            41.005794855335495
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "hat-tipi": "metro1",
+          "pop-up content":"YENİKAPI-ATATÜRK HAVALİMANI İŞ GÜNLERİ: 06:00-00:00 HAFTA SONLARI: 06:00-00:00"
+        },
+        "geometry": {
+          "coordinates": [
+            28.821150440474327,
+            40.97963153845498
+          ],
+          "type": "Point"
+        }
+      },
+          {
+            "type": "Feature",
+            "properties": {
+              "hat-tipi": "metro2",
+              "pop-up content":"YENİKAPI-KİRAZLI İŞ GÜNLERİ: 06:00-00:00 HAFTA SONLARI: 06:00-00:00"
+            },
+            "geometry": {
+              "coordinates": [
+                28.95101872883467,
+                41.005794855335495
+              ],
+              "type": "Point"
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {     
+                       "hat-tipi": "metro2",
+                       "pop-up content":"YENİKAPI-KİRAZLI İŞ GÜNLERİ: 06:00-00:00 HAFTA SONLARI: 06:00-00:00"
+          },
+            "geometry": {
+              "coordinates": [
+                28.842472000001038,
+                41.03132195334726
+              ],
+              "type": "Point"
+            }
+          },
+              {
+                "type": "Feature",
+                "properties": {
+                  "hat-tipi": "metro3",
+                  "pop-up content":"KİRAZLI-KAYAŞEHİR İŞ GÜNLERİ: 06:00-00:00 HAFTA SONLARI: 06:00-00:00"
+                },
+                "geometry": {
+                  "coordinates": [
+                    28.84250418650916,
+                    41.031305766732686
+                  ],
+                  "type": "Point"
+                }
+              },
+              {
+                "type": "Feature",
+                "properties": {
+                  "hat-tipi": "metro3",
+                  "pop-up content":"KİRAZLI-KAYAŞEHİR İŞ GÜNLERİ: 06:00-00:00 HAFTA SONLARI: 06:00-00:00"
+                },
+                "geometry": {
+                  "coordinates": [
+                    28.76631410210129,
+                    41.11896060210691
+                  ],
+                  "type": "Point"
+                }
+              },
+                  {
+                    "type": "Feature",
+                    "properties": {
+                      "hat-tipi": "metro4",
+                      "pop-up content":"YENİKAPI-HACIOSMAN İŞ GÜNLERİ: 06:00-00:00 HAFTA SONLARI: 06:00-00:00"
+
+                    },
+                    "geometry": {
+                      "coordinates": [
+                        28.95101872883467,
+                        41.005794855335495
+                      ],
+                      "type": "Point"
+                    }
+                  },
+                  {
+                    "type": "Feature",
+                    "properties": {                  "hat-tipi": "metro4",
+                    "pop-up content":"YENİKAPI-HACIOSMAN İŞ GÜNLERİ: 06:00-00:00 HAFTA SONLARI: 06:00-00:00"
+                  },
+                    "geometry": {
+                      "coordinates": [
+                        29.030888457670756,
+                        41.13998219983904
+                      ],
+                      "type": "Point"
+                    }
+                  },
+                      {
+                        "type": "Feature",
+                        "properties": {"hat-tipi": "metro5",
+                        "pop-up content":"KADIKÖY-SABİHA GÖKÇEN İŞ GÜNLERİ: 06:00-00:00 HAFTA SONLARI: 06:00-00:00"
+                      },
+                        "geometry": {
+                          "coordinates": [
+                            29.023229650206247,
+                            40.99066721149907
+                          ],
+                          "type": "Point"
+                        }
+                      },
+                      {
+                        "type": "Feature",
+                        "properties": {"hat-tipi": "metro5",
+                        "pop-up content":"KADIKÖY-SABİHA GÖKÇEN İŞ GÜNLERİ: 06:00-00:00 HAFTA SONLARI: 06:00-00:00"
+                      },
+                        "geometry": {
+                          "coordinates": [
+                            29.311448749760928,
+                            40.906553051926835
+                          ],
+                          "type": "Point"
+                        }
+                      },
+     
+                          {
+                            "type": "Feature",
+                            "properties": {"hat-tipi": "metro6",
+                            "pop-up content":"ÜSKÜDAR-ÇEKMEKÖY İŞ GÜNLERİ: 06:00-00:00 HAFTA SONLARI: 06:00-00:00"
+                          },
+                            "geometry": {
+                              "coordinates": [
+                                29.013725359446397,
+                                41.025485347100556
+                              ],
+                              "type": "Point"
+                            }
+                          },
+                          {
+                            "type": "Feature",
+                            "properties": {"hat-tipi": "metro6",
+                            "pop-up content":"ÜSKÜDAR-ÇEKMEKÖY İŞ GÜNLERİ: 06:00-00:00 HAFTA SONLARI: 06:00-00:00"
+                          },
+                            "geometry": {
+                              "coordinates": [
+                                29.186555728834435,
+                                41.016593237796314
+                              ],
+                              "type": "Point"
+                            }
+                          },
+
+                              {
+                                "type": "Feature",
+                                "properties": {"hat-tipi": "metro7",
+                                "pop-up content":"LEVENT-BOĞAZİÇİ/HİSARÜSTÜ İŞ GÜNLERİ: 06:00-00:00 HAFTA SONLARI: 06:00-00:00"
+                              },
+                                "geometry": {
+                                  "coordinates": [
+                                    29.01359782879993,
+                                    41.07674375474491
+                                  ],
+                                  "type": "Point"
+                                }
+                              },
+                              {
+                                "type": "Feature",
+                                "properties": {"hat-tipi": "metro7",
+                                "pop-up content":"LEVENT-BOĞAZİÇİ/HİSARÜSTÜ İŞ GÜNLERİ: 06:00-00:00 HAFTA SONLARI: 06:00-00:00"
+                              },
+                                "geometry": {
+                                  "coordinates": [
+                                    29.045422271162636,
+                                    41.08519021670534
+                                  ],
+                                  "type": "Point"
+                                }
+                              },
+                              {
+                                "type": "Feature",
+                                "properties": {"hat-tipi": "metro7",
+                                "pop-up content":"LEVENT-BOĞAZİÇİ/HİSARÜSTÜ İŞ GÜNLERİ: 06:00-00:00 HAFTA SONLARI: 06:00-00:00"
+                              },
+                                "geometry": {
+                                  "coordinates": [
+                                    29.031994542327908,
+                                    41.08326621729617
+                                  ],
+                                  "type": "Point"
+                                }
+                              },
+
+                                  {
+                                    "type": "Feature",
+                                    "properties": {"hat-tipi": "metro8",
+                                    "pop-up content":"YILDIZ-MAHMUTBEY METRO İŞ GÜNLERİ: 06:00-00:00 HAFTA SONLARI: 06:00-00:00"
+                                  },
+                                    "geometry": {
+                                      "coordinates": [
+                                        29.009578960341912,
+                                        41.05399335825231
+                                      ],
+                                      "type": "Point"
+                                    }
+                                  },
+                                  {
+                                    "type": "Feature",
+                                    "properties": {"hat-tipi": "metro8",
+                                    "pop-up content":"YILDIZ-MAHMUTBEY METRO İŞ GÜNLERİ: 06:00-00:00 HAFTA SONLARI: 06:00-00:00"},
+                                    "geometry": {
+                                      "coordinates": [
+                                        28.830711271165853,
+                                        41.054131045250955
+                                      ],
+                                      "type": "Point"
+                                    }
+                                  },
+
+                                      {
+                                        "type": "Feature",
+                                        "properties": {"hat-tipi": "metro9",
+                                        "pop-up content":"BOSTANCI-PARSELLER METRO İŞ GÜNLERİ: 06:00-23:00 HAFTA SONLARI: 06:00-23:00"
+                                      },
+                                        "geometry": {
+                                          "coordinates": [
+                                            29.10277007592603,
+                                            40.965044494870625
+                                          ],
+                                          "type": "Point"
+                                        }
+                                      },
+                                      {
+                                        "type": "Feature",
+                                        "properties": {"hat-tipi": "metro9",
+                                        "pop-up content":"BOSTANCI-PARSELLER METRO İŞ GÜNLERİ: 06:00-23:00 HAFTA SONLARI: 06:00-23:00"
+                                      },
+                                        "geometry": {
+                                          "coordinates": [
+                                            29.16323825897115,
+                                            41.01529369411361
+                                          ],
+                                          "type": "Point"
+                                        }
+                                      },
+                                      
+                                          {
+                                            "type": "Feature",
+                                            "properties": {"hat-tipi": "metro10",
+                                            "pop-up content":"BAHARİYE-OLİMPİYAT METRO METRO İŞ GÜNLERİ: 06:00-23:00 HAFTA SONLARI: 06:00-23:00"
+                                          },
+                                            "geometry": {
+                                              "coordinates": [
+                                                28.799278135337346,
+                                                41.058294975265056
+                                              ],
+                                              "type": "Point"
+                                            }
+                                          },
+                                          {
+                                            "type": "Feature",
+                                            "properties": {"hat-tipi": "metro10",
+                                            "pop-up content":"BAHARİYE-OLİMPİYAT METRO METRO İŞ GÜNLERİ: 06:00-23:00 HAFTA SONLARI: 06:00-23:00"
+
+                                          },
+                                            "geometry": {
+                                              "coordinates": [
+                                                28.76729181481801,
+                                                41.079533257330695
+                                              ],
+                                              "type": "Point"
+                                            }
+                                          },
+                              
+                                              {
+                                                "type": "Feature",
+                                                "properties": {"hat-tipi": "metro11",
+                                                "pop-up content":"GAYRETTEPE-HALKALI METRO METRO İŞ GÜNLERİ: 06:00-23:00 HAFTA SONLARI: 06:00-23:00"
+                                              },
+                                                "geometry": {
+                                                  "coordinates": [
+                                                    28.976231221560766,
+                                                    41.07984408023373
+                                                  ],
+                                                  "type": "Point"
+                                                }
+                                              },
+                                              {
+                                                "type": "Feature",
+                                                "properties": {"hat-tipi": "metro11",
+                                                "pop-up content":"GAYRETTEPE-HALKALI METRO METRO İŞ GÜNLERİ: 06:00-23:00 HAFTA SONLARI: 06:00-23:00"
+                                              },
+                                                "geometry": {
+                                                  "coordinates": [
+                                                    28.821300644179047,
+                                                    40.97934804984686
+                                                  ],
+                                                  "type": "Point"
+                                                }
+                                              }
+                                            ]
+                                          }
